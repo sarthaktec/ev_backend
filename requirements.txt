@@ -77,7 +77,7 @@ six==1.14.0
 sqlparse==0.4.2
 systemd-python==234
 texttable==1.6.2
-unattended-upgrades==0.1
+
 uritemplate==4.1.1
 urllib3==1.26.9
 usb-creator==0.3.7
