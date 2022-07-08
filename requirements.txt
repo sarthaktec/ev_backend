@@ -6,7 +6,6 @@ backports.zoneinfo==0.2.1
 bcrypt==3.1.7
 blinker==1.4
 cached-property==1.5.1
-certifi==2022.5.18.1
 command-not-found==0.3
 coreapi==2.3.3
 coreschema==0.0.4
